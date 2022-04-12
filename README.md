@@ -15,3 +15,5 @@
     <img aligb="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img aligb="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+### Apaixonado por tecnologia e inovação ❤️ Buscando mudar a vida através da programação
