@@ -1,5 +1,9 @@
 ### Olá eu sou o Arthur Guedes 🙋‍♂️
 
+<div>
+<a href="https://github.com/noguedes">
+</div>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-guedes-1134011a0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guedesbarroco@gmail.com)
 
@@ -16,4 +20,5 @@
 
 ### Apaixonado por tecnologia e inovação ❤️ Buscando mudar a vida através da programação
 
+![snake gif](https://github.com/noguedes/noguedes/blob/output/github-contribution-grid-snake.svg)
 
