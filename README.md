@@ -17,6 +17,7 @@
     <img aligb="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img aligb="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img aligb="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img aligb="center" alt="Datadog" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white">
 </div>
 
 ### Apaixonado por tecnologia e inovação ❤️ Buscando mudar a vida através da programação
