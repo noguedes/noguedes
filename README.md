@@ -16,7 +16,7 @@
     <img aligb="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img aligb="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img aligb="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img alt="PyPI - Versions from Framework Classifiers" src="https://img.shields.io/pypi/frameworkversions/aws-cdk/aws">
+    <img aligb="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
 ### Apaixonado por tecnologia e inovação ❤️ Buscando mudar a vida através da programação
